@@ -1,0 +1,564 @@
+[
+  {
+    "name": "میلک شیک",
+    "image": "https://s6.uupload.ir/files/milk_shake_455u.png",
+    "products": [
+      {
+        "title": "شیک وانیل",
+        "subtitle": "350 میلی لیتر، بستنی وانیل، شیر، خامه",
+        "price": 129000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/678923a2579de.jpeg"
+      },
+      {
+        "title": "شیک شکلات",
+        "subtitle": "350 میلی لیتر، بستنی شکلاتی، سس شکلات، شیر، خامه",
+        "price": 139000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/678923a412ed3.jpeg"
+      },
+      {
+        "title": "شیک موز شکلات",
+        "subtitle": "350 میلی لیتر، میکس شیر و بستنی شکلات، موز، سس شکلات",
+        "price": 159000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67892391a74e6.jpeg"
+      },
+      {
+        "title": "شیک نوتلا",
+        "subtitle": "350 میلی لیتر، شیر، بستنی، نوتلا",
+        "price": 169000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/678923944a242.jpeg"
+      },
+      {
+        "title": "شیک موز نوتلا",
+        "subtitle": "350 میلی لیتر، بستنی، موز، شیر، نوتلا",
+        "price": 179000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67892396d9a2a.jpeg"
+      },
+      {
+        "title": "شیک توت فرنگی",
+        "subtitle": "350 میلی لیتر، بستننی، توت فرنگی، شیر، خامه",
+        "price": 139000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/678923992a684.jpeg"
+      },
+      {
+        "title": "شیک توت فرنگی نوتلا",
+        "subtitle": "350 میلی لیتر، بستننی، نوتلا، توت فرنگی، خامه، شیر",
+        "price": 179000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6789239aec343.jpeg"
+      },
+      {
+        "title": "شیک پسته",
+        "subtitle": "350 میلی لیتر، بستنی، شیر، خامه، پسته",
+        "price": 175000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6789239d8617e.jpeg"
+      },
+      {
+        "title": "شیک انبه",
+        "subtitle": "350 میلی لیتر، بستنی، شیر، انبه، خامه",
+        "price": 134000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6789239f4836e.jpeg"
+      },
+      {
+        "title": "شیک شاتوت",
+        "subtitle": "350 میلی لیتر، میکس شیر و بستنی، شاتوت، خامه",
+        "price": 134000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/678923a0949e5.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "شیک های ویژه",
+    "image": "https://s6.uupload.ir/files/special_shake_gbhz.png",
+    "products": [
+      {
+        "title": "شیک دارک ویژه",
+        "subtitle": "میکس شیر و بستنی وانیلی، خامه، پسته، گردو، شکلات اسنیکرز، شکلات کیت کت، شکلات کیندرو، شکلات هوبی",
+        "price": 199000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/vendor/065a6072f01199b5.jpg"
+      },
+      {
+        "title": "شیک اورئو ویژه",
+        "subtitle": "میکس شیر و بستنی وانیلی، بیسکویت اورئو پودر شده",
+        "price": 184300,
+        "available": true,
+        "offerPrice": 194000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b4ef523.png"
+      },
+      {
+        "title": "شیک لوتوس ویژه",
+        "subtitle": "میکس شیر و بستنی وانیلی، پودر بیسکویت لوتوس، کره لوتوس",
+        "price": 184300,
+        "available": true,
+        "offerPrice": 194000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b5bfb0f.png"
+      },
+      {
+        "title": "شیک لوتوس پنیری ویژه",
+        "subtitle": "میکس شیر و بستنی وانیلی، پودر بیسکویت لوتوس، کره لوتوس",
+        "price": 189050,
+        "available": true,
+        "offerPrice": 199000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/vendor/6fa9c29c8e8549c4.jpg"
+      },
+      {
+        "title": "شیک اسپرسو ویژه",
+        "subtitle": "میکس شیر و بستنی وانیلی، قهوه اسپرسو، پودر قهوه، ارائه در لیوان پلمپ شده",
+        "price": 171000,
+        "available": true,
+        "offerPrice": 180000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b756515.png"
+      },
+      {
+        "title": "شیک اسنیکرز ویژه",
+        "subtitle": "بستنی و خامه و آجیل وانواع شکلاتهای خاص خارجی نظیر اسنیکرزو کیت کت وکیندرو هوبی وپسته",
+        "price": 189050,
+        "available": true,
+        "offerPrice": 199000,
+        "image": null
+      },
+      {
+        "title": "شیک ویژه پیژام",
+        "subtitle": "بستنی و خامه و آجیل وانواع شکلاتهای خاص خارجی نظیر اسنیکرزو کیت کت وکیندرو هوبی وپسته",
+        "price": 208050,
+        "available": true,
+        "offerPrice": 219000,
+        "image": null
+      }
+    ]
+  },
+  {
+    "name": "آیس پک",
+    "image": "https://s6.uupload.ir/files/icepack_gudc.png",
+    "products": [
+      {
+        "title": "آیس پک ساورترش",
+        "subtitle": "۳۵۰ میلی لیتر بستنی وانیلی، آب میوه های: بری، خامه، اسمارتیز، موز",
+        "price": 132050,
+        "available": true,
+        "offerPrice": 139000,
+        "image": null
+      },
+      {
+        "title": "آیس پک بادام زمینی",
+        "subtitle": "بستنی و کره بادام زمینی و بادام زمینی و اسمارتیز خامه",
+        "price": 151050,
+        "available": true,
+        "offerPrice": 159000,
+        "image": null
+      },
+      {
+        "title": "آیس پک کیت کت",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، تکه های موز، دراژه، چیپس شکلات، اسمارتیز، تکه شکلات کیت کت",
+        "price": 179550,
+        "available": true,
+        "offerPrice": 189000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b86a98e.png"
+      },
+      {
+        "title": "آیس پک پسته",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، تکه های موز، دراژه، چیپس شکلات، اسمارتیز، پسته",
+        "price": 166250,
+        "available": true,
+        "offerPrice": 175000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/vendor/e1fcfb4a360627c9.jpg"
+      },
+      {
+        "title": "آیس پک وانیل",
+        "subtitle": "بستنی وانیلی، شیر پاستوریزه، خامه فرم گرفته، وانیل، تکه های موز، دراژه، چیپس شکلات، اسمارتیز، سس شکلات",
+        "price": 129000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b8b961d.png"
+      },
+      {
+        "title": "آیس پک شکلاتی",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، تکه های موز، دراژه، چیپس شکلات، اسمارتیز، سس شکلات",
+        "price": 139000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/vendor/e69642c3d4778703.jpg"
+      },
+      {
+        "title": "آیس پک نوتلا",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، تکه های موز، دراژه، چیپس شکلات، اسمارتیز، نوتلا",
+        "price": 169000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b95f681.png"
+      },
+      {
+        "title": "آیس پک انبه",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، دراژه، چیپس شکلات، اسمارتیز، تکه های موز",
+        "price": 134000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109b96e8e5.png"
+      },
+      {
+        "title": "آیس پک توت فرنگی",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، دراژه، چیپس شکلات، اسمارتیز، تکه های موز",
+        "price": 139000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109ba8606a.png"
+      },
+      {
+        "title": "آیس پک شاتوت",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، دراژه، چیپس شکلات، اسمارتیز، تکه های شاتوت",
+        "price": 134000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109ba96d08.png"
+      },
+      {
+        "title": "آیس پک بلوبری",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، دراژه، چیپس شکلات، اسمارتیز",
+        "price": 149000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109baaa90d.png"
+      },
+      {
+        "title": "آیس پک دارک",
+        "subtitle": "بستنی، شیر پاستوریزه، خامه فرم گرفته، تکه های موز، دراژه، چیپس شکلات، اسمارتیز، سس شکلات تلخ",
+        "price": 141550,
+        "available": true,
+        "offerPrice": 149000,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/670109bad0426.png"
+      },
+      {
+        "title": "آیس پک نسکافه",
+        "subtitle": "350 میلی لیتر بستنی وانیلی، خامه، قهوه گلد، اسمارتیز، موز",
+        "price": 149000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/671f9eaa219e8.png"
+      }
+    ]
+  },
+  {
+    "name": "اسموتی",
+    "image": "https://s6.uupload.ir/files/smoothie_f286.png",
+    "products": [
+      {
+        "title": "اسموتی پیناکولادا",
+        "subtitle": "330 میلی لیتر، میکس شیر نارگیل و بستنی وانیلی، اسلایس آناناس، عسل، آبلیمو، یخ کراش، ارائه در لیوان پلمپ شده",
+        "price": 161500,
+        "available": true,
+        "offerPrice": 170000,
+        "image": null
+      },
+      {
+        "title": "اسموتی استوایی",
+        "subtitle": "330 میلی لیتر، میکس شیر و بستنی استوایی، يخ كراش، ارائه در لیوان پلمپ شده",
+        "price": 123500,
+        "available": true,
+        "offerPrice": 130000,
+        "image": null
+      },
+      {
+        "title": "اسموتی سنتورینی",
+        "subtitle": "350 میلی لیتر، شیر و بستننی بلوبری، فیله آناناس، سیروپ و آبلیمو، عسل",
+        "price": 123500,
+        "available": true,
+        "offerPrice": 130000,
+        "image": null
+      },
+      {
+        "title": "اسموتی لیموناد",
+        "subtitle": "330 میلی لیتر، میکس شیر و بستنی وانیلی، لیموناد، یخ کراش، ارائه در لیوان پلمپ شده",
+        "price": 114000,
+        "available": true,
+        "offerPrice": 120000,
+        "image": null
+      },
+      {
+        "title": "رد کولا",
+        "subtitle": "500 میلی لیتر، یخ، کولا، سیروپ، لیمو تازه، عسل",
+        "price": 133000,
+        "available": true,
+        "offerPrice": 140000,
+        "image": null
+      }
+    ]
+  },
+  {
+    "name": "معجون",
+    "image": "https://s6.uupload.ir/files/majon_6tf5.png",
+    "products": [
+      {
+        "title": "معجون ویژه پیژام",
+        "subtitle": "پایه بستنی، کنجد، پسته، نارگیل، بادام هندی، عسل، شیره انگور، موز، آناناس",
+        "price": 260000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      },
+      {
+        "title": "معجون انبه",
+        "subtitle": "500 میلی لیتر، بستنی پایه معجون، مغزگردو، پسته، کنجد، نارگیل، بادام هندی، انبه، شیره انگور",
+        "price": 260000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      },
+      {
+        "title": "معجون توت فرنگی",
+        "subtitle": "500 میلی لیتر، گردو، پسته، کنجد، نارگیل، بادام هندی، توت فرنگی، شیره انگور",
+        "price": 260000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "name": "قهوه سرد",
+    "image": "https://s6.uupload.ir/files/cold_coffe_e3q1.png",
+    "products": [
+      {
+        "title": "آیس لته",
+        "subtitle": "220 میلی لیتر، بیس فوم شیر، یک شات اسپرسو، یخ، ارائه در لیوان پلمپ شده",
+        "price": 120000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67b8bd9c1dab8.jpeg"
+      },
+      {
+        "title": "آیس کارامل ماکیاتو",
+        "subtitle": "400 میلی لیتر شیر، یخ، یک شات اسپرسو 70% عربیکا 30% روبوستا، سیروپ کارامل، ارائه در لیوان پلمپ شده",
+        "price": 130000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67b8bd9cbcbda.jpeg"
+      },
+      {
+        "title": "آیس موکا",
+        "subtitle": "220 میلی لیتر، یک شات اسپرسو 70% عربیکا 30% روبوستا، شکلات، شیر، خامه زده شده، یخ، ارائه در لیوان پلمپ شده",
+        "price": 130000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67b8bd9d0ac64.jpeg"
+      },
+      {
+        "title": "آیس امریکانو",
+        "subtitle": "220 میلی لیتر، یک شات اسپرسو 70% عربیکا 30% روبوستا، وانیل، یخ، ارائه در لیوان پلمپ شده",
+        "price": 110000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67b8bd9d498af.jpeg"
+      },
+      {
+        "title": "آیس چاکلت",
+        "subtitle": "220 میلی لیتر، شکلات ذوب شده، یخ کراش، شکر، ارائه در لیوان پلمپ شده",
+        "price": 130000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67b8bd9f4acd2.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "پکیج",
+    "image": "https://s6.uupload.ir/files/package_s3pi.png",
+    "products": [
+      {
+        "title": "پک هویج بستنی شش نفره",
+        "subtitle": "1.5 آب هویج، یک کیلوگرم بستنی سنتی مخصوص، همراه لیوان 6 عدد و نی و قاشق",
+        "price": 399000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      },
+      {
+        "title": "پک هویج بستنی شش نفره اقتصادی",
+        "subtitle": "1.5 لیتر آب هویج، همراه یک کیلوگرم بستنی وانیلی بدون مغز",
+        "price": 329000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      },
+      {
+        "title": "پک هویج بستنی سه نفره",
+        "subtitle": "یک لیتر آب هویج، 500 گرم بستنی سنتی مغزدار، ۳عدد لیوان وقاشق و نی",
+        "price": 239000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "name": "قهوه",
+    "image": "https://s6.uupload.ir/files/coffee_cn1l.png",
+    "products": [
+      {
+        "title": "اسپرسو",
+        "subtitle": "اسپرسو، عصاره قهوه 70% عربیکا، 30% روبوستا",
+        "price": 80000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/676f9e8feec26.png"
+      },
+      {
+        "title": "امریکانو دبل",
+        "subtitle": "اسپرسودبل 70 میلی لیتر به همراه 110 میلی لیتر اب گرم قهوه عصاره 70 سی روبوستا میباشد",
+        "price": 90000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6756d9466c563.png"
+      },
+      {
+        "title": "لته",
+        "subtitle": "360 میلی لیتر شیر و عصاره قهوه دبل 70 میلی لیتر روبوستا 70 سی",
+        "price": 110000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/67b97ae45f7e2.jpeg"
+      },
+      {
+        "title": "کارامل ماکیاتو",
+        "subtitle": "360 میلی لیتر شیر و اسپرسو 70 میلی لیتر و کارامل",
+        "price": 120000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6756d945c063e.png"
+      },
+      {
+        "title": "موکا",
+        "subtitle": "360 میلی لیتر شیر وشکلات و 70 میلی لیتر اسپرسو",
+        "price": 120000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6756d9452dd9c.png"
+      }
+    ]
+  },
+  {
+    "name": "نوشیدنی گرم",
+    "image": "https://s6.uupload.ir/files/hot_drinks_fqtq.png",
+    "products": [
+      {
+        "title": "هات چاکلت",
+        "subtitle": "360 میلی لیتر، شکلات آب شده، شیر",
+        "price": 110000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6749824e19121.png"
+      },
+      {
+        "title": "هات چاکلت فندق",
+        "subtitle": "360 میلی لیتر، شکلات فندقی، شیر",
+        "price": 125000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6749824ece31b.png"
+      },
+      {
+        "title": "چای ماسالا",
+        "subtitle": "360 میلی لیتر، شیر، پودر ماسالا",
+        "price": 120000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/674982508488a.png"
+      },
+      {
+        "title": "هات نوتلا",
+        "subtitle": "360 میلی لیتر، شکلات نوتلا، شیر",
+        "price": 130000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/6749824d565f4.png"
+      },
+      {
+        "title": "هات پسته زعفران",
+        "subtitle": "360 میلی لیتر، شیر، پسته، زعفران",
+        "price": 150000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "name": "کیک و شیرینی",
+    "image": "https://s6.uupload.ir/files/cake_5tb1.png",
+    "products": [
+      {
+        "title": "موچی",
+        "subtitle": "۸۰ گرم، آرد نشاسته، خامه",
+        "price": 90000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/vendor/37b8dd68a991a650.jpg"
+      },
+      {
+        "title": "کروسان نوتلا",
+        "subtitle": "یک عدد",
+        "price": 95000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      },
+      {
+        "title": "کیک شکلاتی",
+        "subtitle": "یک اسلایس ۱۲۰گرمی",
+        "price": 85000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/671f9efed6763.png"
+      },
+      {
+        "title": "کیک سیب دارچین",
+        "subtitle": "یک اسلایس",
+        "price": 90000,
+        "available": true,
+        "offerPrice": null,
+        "image": "https://cdn.snappfood.ir/200x201/cdn/40/99/78/product_image/zoodfood/671f9f1ddc78f.png"
+      },
+      {
+        "title": "چیز کیک لوتوس",
+        "subtitle": "یک اسلایس",
+        "price": 99000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "name": "موکتل",
+    "image": "https://s6.uupload.ir/files/mocktail_jj5u.png",
+    "products": [
+      {
+        "title": "موهیتو",
+        "subtitle": "350 سی سی لیمو و نعنا و عسل و یخ کراش وآب گازدار",
+        "price": 120000,
+        "available": true,
+        "offerPrice": null,
+        "image": null
+      }
+    ]
+  }
+]
