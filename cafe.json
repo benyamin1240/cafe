@@ -560,5 +560,20 @@
         "image": null
       }
     ]
+  },
+  {
+    "name": "وافل",
+    "image": "https://s6.uupload.ir/files/وافل-کاجی_62ed.jpg",
+    "products": [
+      {
+        "title": "وافل بستنی",
+        "subtitle": "وافل دست ساز پیژام به همراه بستنی دستگاهی و میوه های فصل",
+        "price": 95000,
+        "available": false,
+        "offerPrice": null,
+        "image": "https://s6.uupload.ir/files/mocktail_jj5u.png"
+      }
+    ]
   }
+
 ]
