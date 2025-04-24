@@ -568,9 +568,9 @@
       {
         "title": "وافل بستنی",
         "subtitle": "وافل دست ساز پیژام به همراه بستنی دستگاهی و میوه های فصل",
-        "price": 95000,
+        "price": 100000,
         "available": true,
-        "offerPrice": null,
+        "offerPrice": 95000,
         "image": null
       }
     ]
