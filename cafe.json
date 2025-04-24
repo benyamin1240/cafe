@@ -563,7 +563,7 @@
   },
   {
     "name": "وافل",
-    "image": "https://s6.uupload.ir/files/وافل-کاجی_62ed.jpg",
+    "image": null,
     "products": [
       {
         "title": "وافل بستنی",
@@ -571,7 +571,7 @@
         "price": 100000,
         "available": true,
         "offerPrice": 95000,
-        "image": "https://s6.uupload.ir/files/وافل-کاجی_62ed.jpg"
+        "image": null
       }
     ]
   }
